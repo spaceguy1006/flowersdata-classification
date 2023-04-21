@@ -55,44 +55,4 @@ from sklearn.metrics import accuracy_score
 
 print('The model\'s accuracy is {}'.format(accuracy_score(y_pred, test_y)))
 
-""" The prediction of this model is very accurate as it has a 96% success rate."""
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+""" The prediction of this model is accurate as it has a 96% success rate."""
